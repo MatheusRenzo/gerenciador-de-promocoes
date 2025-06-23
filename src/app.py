@@ -273,7 +273,7 @@ st.markdown("""
 # ========== FUNÇÕES ==========
 def carregar_logo():
     try:
-        logo = Image.open("src/assets/generic_logo.png")
+        logo = Image.open("src/assets/VTEX_Logo.svg.png")
         st.markdown('<div class="logo-container">', unsafe_allow_html=True)
         st.image(logo, width=200)
         st.markdown('</div>', unsafe_allow_html=True)
