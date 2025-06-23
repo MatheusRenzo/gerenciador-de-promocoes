@@ -119,14 +119,14 @@ Baixe um relatório completo da operação (sucessos e falhas).
 ## 🚦 Performance
 
 - Processa aproximadamente **500 registros por minuto por thread**
-- Suporta até **10.000 registros por operação**
+- Suporta até **1.000.000 registros por operação**
 - **Auto scaling** com base na configuração de threads
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Matheus Gama**
+Desenvolvido por **Matheus Renzo Gama**
 
 > Curtiu o projeto? Me chama pra trocar ideia, bater papo sobre automação, desenvolvimento ou integração com a VTEX!
 
