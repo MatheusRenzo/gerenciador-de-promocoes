@@ -1,5 +1,7 @@
 # VTEX Master Data Integration 🚀
 
+![App Screenshot](src/assets/print6.png)
+
 ![App Screenshot](src/assets/print1.png)
 
 ![App Screenshot](src/assets/print2.png)
