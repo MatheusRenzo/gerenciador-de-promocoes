@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### 3. Configure o ambiente:
 
 ```bash
-cp .env.example .env
+cp .env
 ```
 
 > **Depois edite o `.env` com suas credenciais VTEX e parâmetros de configuração**
