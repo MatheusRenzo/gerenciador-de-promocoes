@@ -1,6 +1,15 @@
 # VTEX Master Data Integration 🚀
 
-![App Screenshot](src/assets/screenshot.png)
+![App Screenshot](src/assets/print1.png)
+
+![App Screenshot](src/assets/print2.png)
+
+![App Screenshot](src/assets/print3.png)
+
+![App Screenshot](src/assets/print4.png)
+
+![App Screenshot](src/assets/print5.png)
+
 
 Sistema avançado de integração para operações em massa no **VTEX Master Data**, totalmente desenvolvido por mim com foco em **performance**, **usabilidade** e **automação de grandes volumes de dados**.
 
