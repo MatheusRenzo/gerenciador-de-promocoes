@@ -441,7 +441,15 @@ def tela_login():
             <p>v1.2.0 | Sistema de integração VTEX | © 2025</p>
         </div>
     """, unsafe_allow_html=True)
-    st.markdown('<p style="text-align:center;">Generic Integration System</p>', unsafe_allow_html=True)
+    st.markdown(
+    """
+    <p style="text-align:center;">
+        Desenvolvido por: 
+        <a href="https://www.linkedin.com/in/matheus-renzo-gama-a396b5367/" target="_blank" style="text-decoration:none; color:inherit;">
+            Matheus Renzo Gama
+        </a>
+    </p>
+    """,
 
 def tela_principal():
     carregar_logo()
